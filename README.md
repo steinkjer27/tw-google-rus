@@ -4,6 +4,6 @@
 
 Скоро описание курсов тоже переведу, но пока такие ссылки и нессылки:
 
-[Technical Writing One](/tw-one/tw-one-index.md)
-Technical Writing Two
-Writing Helpful Error Messages
+- [Technical Writing One](/tw-one/tw-one-index.md)
+- Technical Writing Two
+- Writing Helpful Error Messages
